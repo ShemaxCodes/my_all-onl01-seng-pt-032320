@@ -8,4 +8,5 @@ block_return_values <<
   yield(collection[i])
   i = i + 1 
 end
+block_return_values
 end
